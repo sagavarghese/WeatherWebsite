@@ -70,7 +70,7 @@ body {
 
 .future-forecast {
   background: rgba(8, 68, 18, 0.6);
-  padding: 25px;
+  padding: 20px;
   position: fixed;
   bottom: 0;
   display: flex;
@@ -99,8 +99,8 @@ body {
 }
 
 .future-forecast .today .temp {
-  font-size: 20px;
-  padding-top: 15px;
+  font-size: 12px;
+  padding-top: 10px;
 }
 
 .future-forecast .weather-forecast {
